@@ -1,2 +1,4 @@
-print("Hi, Jenkins from Python. ok")
+print("Hi, Jenkins from Python.")
+
+print("Hi,  Python from Jenkins.")
 
