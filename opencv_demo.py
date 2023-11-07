@@ -5,4 +5,4 @@ img = cv2.imread('im.png',0)
 
 plt.imshow(img, cmap='gray')
 plt.show()
-print("done")
+print("Last line of code")
